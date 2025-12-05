@@ -18,6 +18,8 @@
 
 ###
 
+<h2 align="left">I store data in</h2>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
@@ -31,6 +33,8 @@
 </div>
 
 ###
+
+<h2 align="left">I know how to use</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />

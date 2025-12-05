@@ -1,7 +1,3 @@
-## Hi there 👋
-
-I am a software developer with 16 years of experience.
-
 <h2 align="left">I code with</h2>
 
 <div align="left">
@@ -44,5 +40,3 @@ I am a software developer with 16 years of experience.
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
 </div>
-
-###

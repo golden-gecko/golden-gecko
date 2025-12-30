@@ -1,4 +1,4 @@
-<p align="left">✨ Creating bugs since 2009<br>🔭 I’m currently working on QGIS plugin for route planning<br>🌱 I'm currently learning Go<br></p>
+<p align="left">✨ Creating bugs since 2009<br>🔭 I’m currently working on QGIS plugin for route planning and RTS game<br>🌱 I'm currently learning Go<br></p>
 
 <h2 align="left">I code with</h2>
 
